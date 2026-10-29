@@ -3,6 +3,15 @@
 ## Brief description
 A cloud security architecture built on the **never trust, always verify** principle, featuring multi-factor authentication, an API gateway, and containerized microservices.
 
+## Tech stack
+- Node.js / Express
+- Nginx (API gateway)
+- PostgreSQL
+- Docker / Docker Compose
+- Kubernetes
+- JWT + MFA-oriented auth
+- Azure-oriented lab tooling
+
 ## Project purpose
 Prototype a zero-trust style service layout with JWT/MFA-oriented auth, Nginx API gateway controls, PostgreSQL, Docker Compose, and Kubernetes manifests for academic cloud-security work.
 
